@@ -19,3 +19,7 @@ Dynamic Time Warping (DTW) is a mathematical technique used for measuring simila
 ## Acknowledge
 
 This Rust library was implemented based on the [DTW_cpp](https://github.com/cjekel/DTW_cpp) library. Thank you for making the code available.
+
+## License
+
+`dtw` is distributed under the MIT license. See `LICENSE` for more details.
